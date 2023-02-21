@@ -13,3 +13,5 @@ Colaborando en modo código abierto.
 ## Revisando git stash
 
 Permite almacenar temporalmente los cambios.
+
+vamos
